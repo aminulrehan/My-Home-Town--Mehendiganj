@@ -1,6 +1,6 @@
   body {
       font-family: Arial, sans-serif;
-      line-height: 1.6;
+      line-height: 2.6;
       margin: 0;
       padding: 0;
       background: #31a231;
@@ -15,9 +15,9 @@
       padding: 20px;
     }
     img {
-      max-width: 100%;
-      height: auto;
-      border-radius: 10px;
+      max-width: 300%;
+      height: 250;
+      border-radius: 30px;
     }
     footer {
       background: #f2bb1645;
@@ -25,3 +25,4 @@
       padding: 10px;
       text-align: center;
     }
+
